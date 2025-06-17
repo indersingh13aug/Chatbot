@@ -1,0 +1,35 @@
+Q: What cuisines do you serve?
+A: We serve North Indian, South Indian, Chinese, and Continental cuisines.
+
+Q: What are your restaurant hours?
+A: We are open from 11 AM to 11 PM, Monday to Sunday.
+
+Q: Do you offer home delivery?
+A: Yes, we offer home delivery within a 10 km radius. You can order online or call us.
+
+Q: How can I make a reservation?
+A: You can reserve a table by calling us or using the reservation form on our website.
+
+Q: Do you have a buffet option?
+A: Yes, we offer buffet lunch and dinner on weekends and public holidays.
+
+Q: Are vegetarian and non-vegetarian options available?
+A: Absolutely! We have a wide range of vegetarian and non-vegetarian dishes.
+
+Q: What is your specialty?
+A: Our signature dish is the “Paneer Tikka Platter” and the “Tandoori Chicken Deluxe.”
+
+Q: Do you accept UPI and cards?
+A: Yes, we accept all major cards, UPI, and digital wallets.
+
+Q: Is there a kids menu?
+A: Yes, we have a dedicated kids menu with child-friendly portions and flavors.
+
+Q: Do you offer catering services?
+A: Yes, we provide catering for events, parties, and corporate functions.
+
+Q: Are pets allowed in the restaurant?
+A: Pets are welcome in our outdoor seating area.
+
+Q: How can I contact the restaurant?
+A: You can call us at +91-1234567890 or email us at support@yourrestaurant.com.
