@@ -7,7 +7,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load NLP model
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('paraphrase-MiniLM-L3-v2')
 
 # Directory containing all QA txt files
 QA_DIR = "qa_files"
